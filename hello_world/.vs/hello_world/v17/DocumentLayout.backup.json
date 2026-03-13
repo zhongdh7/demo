@@ -1,0 +1,45 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\loser\\Desktop\\code\\hello_world\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FBFE25F-B59D-443D-B329-5FECA57E155B}|hello_world\\hello_world.vcxproj|C:\\Users\\loser\\Desktop\\code\\hello_world\\hello_world\\hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3FBFE25F-B59D-443D-B329-5FECA57E155B}|hello_world\\hello_world.vcxproj|solutionrelative:hello_world\\hello_world.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hello_world.cpp",
+              "DocumentMoniker": "C:\\Users\\loser\\Desktop\\code\\hello_world\\hello_world\\hello_world.cpp",
+              "RelativeDocumentMoniker": "hello_world\\hello_world.cpp",
+              "ToolTip": "C:\\Users\\loser\\Desktop\\code\\hello_world\\hello_world\\hello_world.cpp*",
+              "RelativeToolTip": "hello_world\\hello_world.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2026-03-13T15:36:20.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{56df62a4-05a3-4e5b-aa1a-99371ccfb997}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
